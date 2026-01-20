@@ -20,12 +20,8 @@ These are solved using Python and standard NLP libraries where required.
 ## 🛠️ Technologies Used
 
 - 🐍 **Python**
-- 📚 NLP libraries such as *(if applicable)*:
+- 📚 NLP libraries such as:
   - `nltk`
   - `re` (regular expressions)
-  - Others (if used)
 
----
-
-## 📁 Project Structure
 
